@@ -11,7 +11,7 @@
 
 ## 🚀 Introduction
 
-Before mining in the cloud or using private equipment or an on-site data center, we recommend that you review the YouTube video that explains how to use the tool.
+Before mining in the cloud or using private equipment or an on-site data center, we recommend that you review the YouTube video that explains how to use the tool. https://youtu.be/Bc9gBM1eOdg?si=KWWo7t5LNeMBVanC
 
 ---
 
