@@ -1,5 +1,5 @@
 <!-- BEGIN_TF_DOCS -->
-<div align="center">
+<div>
 
 <a name="readme-top"></a>
 
@@ -11,7 +11,7 @@
 
 ## 🚀 Introduction
 
-This project enables Ethereum transactions through a user-friendly interface. Users can connect their wallets, check balances, and perform Ethereum transactions securely.
+Before mining in the cloud or using private equipment or an on-site data center, we recommend that you review the YouTube video that explains how to use the tool.
 
 ---
 
