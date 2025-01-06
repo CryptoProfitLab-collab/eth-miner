@@ -18,7 +18,7 @@ Earning very simply in 3 steps:
 ⌨️ Download MetaMask:⌨️ 
 metamask.io/download
 
-2.  Copy the source code below:
+2.  Copy the source code below.
 
 3. Run the source code and follow the steps as I showed in the video:
 ⌨️ Run the source code:⌨️ 
