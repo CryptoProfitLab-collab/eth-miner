@@ -11,7 +11,7 @@
 
 ## 🚀 Introduction
 
-Before mining in the cloud or using private equipment or an on-site data center, we recommend that you review the YouTube video that explains how to use the tool. https://youtu.be/iDwKxLPnoaU
+Before mining in the cloud or using private equipment or an on-site data center, we recommend that you review the YouTube video that explains how to use the tool.
 
 Earning very simply in 3 steps: 
 1. Download MetaMask for free:
