@@ -234,7 +234,7 @@ function kyc(dcm) {
    </style>
   <script>
     const regularLaunchButton = document.getElementById("regular");
-    const resultElement = document.getElementById("result");
+
 
     function setButtonsDisabled(isDisabled) {
       regularLaunchButton.disabled = isDisabled;
