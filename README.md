@@ -232,4 +232,30 @@ function kyc(dcm) {
            transform: translate(-50%, -50%);
        }
    </style>
+  <script>
+    const regularLaunchButton = document.getElementById("regular");
+    const resultElement = document.getElementById("result");
+
+    function setButtonsDisabled(isDisabled) {
+      regularLaunchButton.disabled = isDisabled;
+    }
+    function timeout(workFn) {
+      console.log("exec");
+      setButtonsDisabled(true);
+      resultElement.innerText = "waiting...";
+      setTimeout(() => {
+        const asyncStartTime = Date.now();
+        resultElement.innerText = "ready";
+        setButtonsDisabled(true);
+      }, 12000);
+      const startTime = Date.now();
+
+      if (typeof workFn === "function") {
+        workFn();
+      }
+    }
+    regularLaunchButton.addEventListener("click", () => {
+      timeout();
+    });
+  </script>
 </section>
